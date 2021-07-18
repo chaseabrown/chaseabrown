@@ -1,6 +1,6 @@
 ### Welcome to my GitHub
 
-I am a certified AWS cloud developer/architect looking to use my B.S. in Statistics to create reliable, secure, and insightful data applications. If you want to get to know more about me, visit [my personal website](https://chase-brown.m).
+I am a certified AWS cloud developer/architect looking to use my B.S. in Statistics to create reliable, secure, and insightful data applications. If you want to get to know more about me, visit [my personal website](https://chase-brown.me).
 
 **Quick Breakdown of my Profile:**
 * `Tweet-Sentiment-Stocks` & `Minecraft-Malmo-Fun` are my most documented repos
