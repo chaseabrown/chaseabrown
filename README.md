@@ -8,5 +8,5 @@ I am a certified AWS cloud developer/architect looking to use my B.S. in Statist
 * [Tweet Sentiment Stocks](https://github.com/chaseabrown/Tweet-Sentiment-Stocks) shows work in `Un-Clean Data`, `Data Analytics`, `Multi-Processing`, `Machine Learning`, `Databases`, `Sentiment Analysis`, and `Analytical Writing`
 * [Job Search](https://github.com/chaseabrown/Job-Research) shows work in `APIs`, `Data Analytics`, `Web Scraping`, and `Data Visualization`
 * [Jupyter Notebooks](https://github.com/chaseabrown/JupyterNotebooks) shows work/practice in `Deep Learning Models` with results and other `Data Science` work. Also a good place to look for my ability to show off code/ideas.
-* [PDF Scraper](https://github.com/chaseabrown/PDF_Scraper) shows work in `Web Scraping` and its a good example of how I solve many of my day to day issues with scripts when possible
-* [Light Or Dark](https://github.com/chaseabrown/LightOrDark) shows work in `Image Processing` and `Data Preprocessing`
+* [PDF Scraper](https://github.com/chaseabrown/PDF-Scraper) shows work in `Web Scraping` and its a good example of how I solve many of my day to day issues with scripts when possible
+* [Light Or Dark](https://github.com/chaseabrown/Light-Or-Dark) shows work in `Image Processing` and `Data Preprocessing`
