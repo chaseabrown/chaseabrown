@@ -11,4 +11,6 @@ I am a certified AWS cloud developer/architect looking to use my B.S. in Statist
 * [PDF Scraper](https://github.com/chaseabrown/PDF-Scraper) shows work in `Web Scraping` and its a good example of how I solve many of my day to day issues with scripts when possible
 * [Light Or Dark](https://github.com/chaseabrown/Light-Or-Dark) shows work in `Image Processing` and `Data Preprocessing`
 * [Lambda Scripts](https://github.com/chaseabrown/Lambda-Scripts) shows work using `AWS Lambda` to create serverless backend solutions involving other popular `AWS serverless applications` such as `API Gateway`, `Elastic Beanstalk`, and `DynamoDB`
+
+**Current Personal Project:**
 * [BASALT 2022](https://github.com/chaseabrown/BASALT2022) shows work using `Reinforcement Learning (Deep Q Learning)`, `Data Exploration`, `Image Classification`, `Object Recognition`, `Computer Vision`
