@@ -2,6 +2,9 @@
 
 I am a certified AWS cloud developer/architect looking to use my B.S. in Statistics to create reliable, secure, and insightful data applications. If you want to get to know more about me, visit [my personal website](https://chase-brown.me).
 
+**Current Personal Project:**
+* [BASALT 2022](https://github.com/chaseabrown/BASALT2022) shows work using `Reinforcement Learning (Deep Q Learning)`, `Data Exploration`, `Image Classification`, `Object Recognition`, `Computer Vision`
+
 **Quick Breakdown of my Profile:**
 * [Tweet Sentiment Stocks](https://github.com/chaseabrown/Tweet-Sentiment-Stocks), [Job Search](https://github.com/chaseabrown/Job-Research) & [Minecraft Malmo Fun](https://github.com/chaseabrown/Minecraft-Malmo-Fun) are my most documented repos
 * [Minecraft Malmo Fun](https://github.com/chaseabrown/Minecraft-Malmo-Fun) shows work in `Image Processing` and `Data Visualization`
@@ -12,5 +15,3 @@ I am a certified AWS cloud developer/architect looking to use my B.S. in Statist
 * [Light Or Dark](https://github.com/chaseabrown/Light-Or-Dark) shows work in `Image Processing` and `Data Preprocessing`
 * [Lambda Scripts](https://github.com/chaseabrown/Lambda-Scripts) shows work using `AWS Lambda` to create serverless backend solutions involving other popular `AWS serverless applications` such as `API Gateway`, `Elastic Beanstalk`, and `DynamoDB`
 
-**Current Personal Project:**
-* [BASALT 2022](https://github.com/chaseabrown/BASALT2022) shows work using `Reinforcement Learning (Deep Q Learning)`, `Data Exploration`, `Image Classification`, `Object Recognition`, `Computer Vision`
