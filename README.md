@@ -15,4 +15,4 @@ I am a certified AWS cloud developer/architect looking to use my B.S. in Statist
 * [Lambda Scripts](https://github.com/chaseabrown/Lambda-Scripts) shows work using `AWS Lambda` to create serverless backend solutions involving other popular `AWS serverless applications` such as `API Gateway`, `Elastic Beanstalk`, and `DynamoDB`
 
 **Certifications:**
-![alt-text-1](image1.png "title-1") ![alt-text-2](image2.png "title-2")
+![AWS Certified Cloud Practitioner](https://github.com/chaseabrown/chaseabrown/blob/main/cert-1.png "AWS Certified Cloud Practitioner") ![AWS Certified Developer - Associate](https://github.com/chaseabrown/chaseabrown/blob/main/cert-2.png "AWS Certified Developer - Associate")![AWS Certified Solutions Architect - Associate](https://github.com/chaseabrown/chaseabrown/blob/main/cert-3.png "AWS Certified Solutions Architect - Associate")![AWS Certified Machine Learning Specialist](https://github.com/chaseabrown/chaseabrown/blob/main/cert-4.png "AWS Certified Machine Learning Specialist")
