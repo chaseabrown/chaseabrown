@@ -15,3 +15,16 @@ I am a certified AWS cloud developer/architect looking to use my B.S. in Statist
 * [Lambda Scripts](https://github.com/chaseabrown/Lambda-Scripts) shows work using `AWS Lambda` to create serverless backend solutions involving other popular `AWS serverless applications` such as `API Gateway`, `Elastic Beanstalk`, and `DynamoDB`
 
 [![AWS Certified Cloud Practitioner](https://github.com/chaseabrown/chaseabrown/blob/main/cert-1.png)](https://www.credly.com/badges/d4589edb-e0e4-4dea-8a78-e87d2ce6117b/public_url) [![AWS Certified Developer - Associate](https://github.com/chaseabrown/chaseabrown/blob/main/cert-2.png)](https://www.credly.com/badges/5514de06-3064-47c3-97fa-b92c1937608d/public_url) [![AWS Certified Solutions Architect - Associate](https://github.com/chaseabrown/chaseabrown/blob/main/cert-3.png)](https://www.credly.com/badges/4495afef-90d6-4464-9db6-4833bc7269b1/public_url) [![AWS Certified Machine Learning Specialist](https://github.com/chaseabrown/chaseabrown/blob/main/cert-4.png)](https://www.credly.com/badges/fb040c5f-34b8-4b2e-aa75-23c873912bef/public_url)
+
+## 🔧 Technologies & Tools
+
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=6aa6f8)
