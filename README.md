@@ -3,7 +3,7 @@
 I am a certified AWS cloud developer/architect looking to use my B.S. in Statistics to create reliable, secure, and insightful data applications. If you want to get to know more about me, visit [my personal website](https://chase-brown.me).
 
 **Current Personal Project:**
-* [BASALT 2022](https://github.com/chaseabrown/BASALT2022) shows work using `Reinforcement Learning (Deep Q Learning)`, `Data Exploration`, `Image Classification`, `Object Recognition`, `Computer Vision`
+* [BASALT 2022](https://github.com/chaseabrown/BASALT2022) shows work using `Reinforcement Learning (Deep Q Learning)`, `Gym Environments`, `Internet Scale Knowledge`, `Data Exploration`, `Image Classification`, `Object Recognition`, `Computer Vision`, `Natural Language Processing`, `Semantic Segmentation`, `Custom Generators`, `TD-IDF`, `Deep Learning Depth Estimation`, and `Image Smoothing/Preprocessing`.
 
 **Quick Breakdown of my Profile:**
 * [Tweet Sentiment Stocks](https://github.com/chaseabrown/Tweet-Sentiment-Stocks), [Job Search](https://github.com/chaseabrown/Job-Research) & [Minecraft Malmo Fun](https://github.com/chaseabrown/Minecraft-Malmo-Fun) are my most documented repos
