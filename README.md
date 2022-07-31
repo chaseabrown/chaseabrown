@@ -14,3 +14,5 @@ I am a certified AWS cloud developer/architect looking to use my B.S. in Statist
 * [Light Or Dark](https://github.com/chaseabrown/Light-Or-Dark) shows work in `Image Processing` and `Data Preprocessing`
 * [Lambda Scripts](https://github.com/chaseabrown/Lambda-Scripts) shows work using `AWS Lambda` to create serverless backend solutions involving other popular `AWS serverless applications` such as `API Gateway`, `Elastic Beanstalk`, and `DynamoDB`
 
+**Certifications:**
+![alt-text-1](image1.png "title-1") ![alt-text-2](image2.png "title-2")
