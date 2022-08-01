@@ -6,7 +6,6 @@ I am a certified AWS Cloud Engineer looking to use my B.S. in Statistics to crea
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
-
 class Chase_Brown:
 
     def __init__(self):
