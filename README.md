@@ -1,6 +1,6 @@
 ### Welcome to my GitHub
 
-I am a certified AWS cloud developer/architect looking to use my B.S. in Statistics to create reliable, secure, and insightful data applications. If you want to get to know more about me, visit [my personal website](https://chase-brown.me).
+I am a certified AWS Cloud Engineer looking to use my B.S. in Statistics to create reliable, secure, and insightful Machine Learning applications. If you want to get to know more about me, visit [my personal website](https://chase-brown.me).
 
 ```python
 #!/usr/bin/python
