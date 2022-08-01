@@ -1,6 +1,26 @@
 ### Welcome to my GitHub
 
-I am a certified AWS cloud developer/architect looking to use my B.S. in Statistics to create reliable, secure, and insightful data applications. If you want to get to know more about me, visit [my personal website](https://chase-brown.me).
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
+
+class Chase_Brown:
+
+    def __init__(self):
+        self.role = "Cloud Engineer"
+        self.specialities = ["Machine Learning", "Deep Learning", "Data Analytics", "Automation"]
+        self.degree = "B.S. in Statistics"
+        self.minors = ["Mathematics", "Computer Science"]
+        self.university = "Texas A&M University"
+        self.languages_spoken = ["en_US", "es_419"
+        
+    def say_hi(self):
+        print("Hey everyone! I hope you enjoy my profile. Please reach out if you have any questions.")
+
+me = Chase_Brown()
+me.say_hi()
+```
 
 **Current Personal Project:**
 * [BASALT 2022](https://github.com/chaseabrown/BASALT2022) shows work using `Reinforcement Learning (Deep Q Learning)`, `Gym Environments`, `Internet Scale Knowledge`, `Data Exploration`, `Image Classification`, `Object Recognition`, `Computer Vision`, `Natural Language Processing`, `Semantic Segmentation`, `Custom Generators`, `TD-IDF`, `Deep Learning Depth Estimation`, and `Image Smoothing/Preprocessing`.
@@ -16,13 +36,3 @@ I am a certified AWS cloud developer/architect looking to use my B.S. in Statist
 
 [![AWS Certified Cloud Practitioner](https://github.com/chaseabrown/chaseabrown/blob/main/cert-1.png)](https://www.credly.com/badges/d4589edb-e0e4-4dea-8a78-e87d2ce6117b/public_url) [![AWS Certified Developer - Associate](https://github.com/chaseabrown/chaseabrown/blob/main/cert-2.png)](https://www.credly.com/badges/5514de06-3064-47c3-97fa-b92c1937608d/public_url) [![AWS Certified Solutions Architect - Associate](https://github.com/chaseabrown/chaseabrown/blob/main/cert-3.png)](https://www.credly.com/badges/4495afef-90d6-4464-9db6-4833bc7269b1/public_url) [![AWS Certified Machine Learning Specialist](https://github.com/chaseabrown/chaseabrown/blob/main/cert-4.png)](https://www.credly.com/badges/fb040c5f-34b8-4b2e-aa75-23c873912bef/public_url)
 
-## 🔧 Technologies & Tools
-
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=6aa6f8)
