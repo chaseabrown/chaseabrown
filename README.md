@@ -13,7 +13,7 @@ class Chase_Brown:
         self.degree = "B.S. in Statistics"
         self.minors = ["Mathematics", "Computer Science"]
         self.university = "Texas A&M University"
-        self.languages_spoken = ["en_US", "es_419"
+        self.languages_spoken = ["en_US", "es_419"]
         
     def say_hi(self):
         print("Hey everyone! I hope you enjoy my profile. Please reach out if you have any questions.")
