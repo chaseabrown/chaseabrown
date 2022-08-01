@@ -14,10 +14,8 @@ class Chase_Brown:
         self.degree = "B.S. in Statistics"
         self.minors = ["Mathematics", "Computer Science"]
         self.university = "Texas A&M University"
-        self.languages_spoken = [{"Language": "English"
-                                  "Level":    "Fluent"},
-                                  {"Language": "Spanish"
-                                  "Level":    "Conversational"}]
+        self.languages_spoken = ["English (Fluent)", "Spanish (Conversational)"]
+        self.coding_languages = ["Python", "R", "Java", "C++", "HTML/CSS", "JavaScript"]
                                 
         
     def say_hi(self):
