@@ -14,7 +14,7 @@ class Chase_Brown:
         self.degree = "B.S. in Statistics"
         self.minors = ["Mathematics", "Computer Science"]
         self.university = "Texas A&M University"
-        self.languages_spoken = ["English (Fluent)", "Spanish (Conversational)"]
+        self.human_languages = ["English (Fluent)", "Spanish (Conversational)"]
         self.coding_languages = ["Python", "R", "Java", "C++", "HTML/CSS", "JavaScript"]
                                 
         
