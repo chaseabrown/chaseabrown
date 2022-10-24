@@ -26,7 +26,7 @@ me.say_hi()
 ```
 
 **Current Personal Project:**
-* [BASALT 2022](https://github.com/chaseabrown/BASALT2022) shows work using `Reinforcement Learning (Deep Q Learning)`, `Gym Environments`, `Internet Scale Knowledge`, `Data Exploration`, `Image Classification`, `Object Recognition`, `Computer Vision`, `Natural Language Processing`, `Semantic Segmentation`, `Custom Generators`, `TD-IDF`, `Deep Learning Depth Estimation`, and `Image Smoothing/Preprocessing`.
+* [BASALT 2022](https://github.com/chaseabrown/BASALT2022) shows work using `Reinforcement Learning (Deep Q Learning)`, `Gym Environments`, `Internet Scale Knowledge`, `Data Exploration`, `Image Classification`, `Object Recognition`, `Computer Vision`, `Natural Language Processing`, `Semantic Segmentation`, `Custom Generators`, `TF-IDF`, `Deep Learning Depth Estimation`, and `Image Smoothing/Preprocessing`.
 
 **Quick Breakdown of my Profile:**
 * [Tweet Sentiment Stocks](https://github.com/chaseabrown/Tweet-Sentiment-Stocks) shows work in `Un-Clean Data`, `Data Analytics`, `Multi-Processing`, `Machine Learning`, `Databases`, `Sentiment Analysis`, and `Analytical Writing`
